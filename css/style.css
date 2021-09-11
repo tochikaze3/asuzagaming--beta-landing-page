@@ -140,7 +140,7 @@ ol {
 .text-white span,
 .text-white li,
 .text-white a {
-	color: #fff;
+	color: #ca5121;
 }
 
 /*---------------------
@@ -604,7 +604,7 @@ ol {
 .text-box p {
 	font-size: 15px;
 	font-weight: 500;
-	color: #68647d;
+	color: #fff;
 	margin-bottom: 35px;
 }
 
@@ -927,7 +927,7 @@ ol {
 }
 
 .featured-box .text-box p {
-	font-size: 16px;
+	font-size: 20px;
 }
 
 .featured-box .text-box .read-more {
