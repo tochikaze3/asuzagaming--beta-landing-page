@@ -20,7 +20,7 @@
 
 	<!-- Main Stylesheets -->
 	<link rel="stylesheet" href="css/style.css"/>
-	<link rel="stylesheet" href="css/slide.css">
+	<!--<link rel="stylesheet" href="css/slide.css">-->
 
 
 	<!--[if lt IE 9]>
@@ -42,6 +42,8 @@
 		</nav>
 	</div>
 	<!--navbar end-->
+	
+	
 	<!-- Hero section -->
 	<section class="hero-section overflow-hidden">
 		<div class="hero-slider owl-carousel">
@@ -75,7 +77,6 @@
 	<div class="featured-bg set-bg" data-setbg="img/7.jpg"></div>
 	<div class="featured-box">
 		<div class="text-box">
-			<div class="top-meta"> <a href=></a></div>
 			<h3 style=color:#ce742b>About Us</h3>
 			<p style=color:#0e0505>Asuza is tournament management platform committed to helping organize, track, promote and attract viewership numbers to Tournaments including player evaluation and recruitment. </p>
 		</div>
@@ -87,11 +88,16 @@
 <!-- Beta Registeration -->
 <section class="newsletter-section">
 	<div class="container">
-		<h2>Join our Beta Today!! </h2>
-		<form class="newsletter-form">
-			<input type="text"  class = col-md-4 placeholder="ENTER YOUR E-MAIL TO Pre-register">
-			<button class="site-btn">Click to Register <img src="img/icons/double-arrow.png" alt="#"/></button>
-		</form>
+		<h2>Join our Waitlist!! </h2>
+		<form name="contact" method="POST" data-netlify="true">
+			<p>
+		 Your Email: <input type="email"  placeholder="Enter your email" name="email" />
+			</p>			
+			<p>
+				<button type="submit" class="btn btn-light btn-xl">Register</button>
+			</p>
+		  </form>
+		  
 	</div>
 </section>
 <!-- Beta registration end -->
