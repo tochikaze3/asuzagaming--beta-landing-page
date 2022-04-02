@@ -8445,7 +8445,7 @@ h1, h2, h3, h4, h5,
     #colorlib-aside #colorlib-logo a {
       display: inline-block;
       text-align: left;
-      color: ;
+      color: #040505 ;
       overflow: hidden;
       -webkit-background-clip: text;
       -webkit-text-fill-color: #ffffff;
