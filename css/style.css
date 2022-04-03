@@ -8483,7 +8483,7 @@ h1, h2, h3, h4, h5,
           bottom: 7px;
           left: 0;
           right: 0;
-          background-color: #f3c623;
+          background-color:#f3c62300;
           visibility: hidden;
           -webkit-transform: scaleX(0);
           -moz-transform: scaleX(0);
@@ -8508,7 +8508,7 @@ h1, h2, h3, h4, h5,
       #colorlib-aside #colorlib-main-menu ul li.colorlib-active {
         font-weight: 600; }
         #colorlib-aside #colorlib-main-menu ul li.colorlib-active a {
-          color: #f3c623; }
+          color: #3d0054ab ; }
           #colorlib-aside #colorlib-main-menu ul li.colorlib-active a:after {
             visibility: visible;
             -webkit-transform: scaleX(1);
@@ -8801,9 +8801,9 @@ h1, h2, h3, h4, h5,
         text-transform: uppercase;
         font-size: 12px;
         letter-spacing: 3px;
-        color: #f3c623;
+        color: #fff;
         font-weight: 700;
-        border: 1px solid #f3c623;
+        border: 1px solid #cf00ef;
         padding: 2px 5px; }
       .portfolio-wrap .text .desc p {
         margin-bottom: 30px; }
@@ -9114,7 +9114,7 @@ textarea.form-control {
         font-weight: 500;
         color: #000000; }
       .info-wrap .dbox p a {
-        color: #000000; }
+        color: #fff; }
     .info-wrap .dbox .icon {
       width: 50px;
       height: 50px;
