@@ -112,7 +112,7 @@ a:hover, a:active {
 h1, h2, h3, h4, h5, h6, 
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: "montserrat-medium", sans-serif;
-    color: #000000;
+    color: #121212;
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -1807,7 +1807,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 6.3rem;
     line-height: 1.333;
     margin-top: 0;
-    color: #9f6db1;
+    color: #fff;
 }
 
 .home-content__main {
@@ -2201,7 +2201,7 @@ html.no-csstransitions .home-content__main {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
     background-color: #470051;
-    color: #010507;
+    color: #fff;
     position: relative;
 }
 
